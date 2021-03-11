@@ -1,0 +1,24 @@
+body {
+    background-color: #eff5f8;
+    align-items: center;
+  }
+
+  .title {
+      font-size: 30px;
+     text-align: center; 
+     margin-top: 200px;
+  }
+
+  .frontparapgraph {
+      text-align: center;
+      margin-top: 30px;
+  }
+
+  .startquiz {
+      align-items: center;
+  }
+
+  .startbutton {
+      text-align: center;
+      margin-top: 20px;
+  }
